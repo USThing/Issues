@@ -40,6 +40,7 @@ FBS Fix:
 - Can now book normally
 - Fix Wording
 - Filter list updated
+
 Timetable Fix:
 - Can show timetable on home screen normally
 
