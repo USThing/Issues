@@ -35,7 +35,7 @@ Fixed:
 - FBS Close Time
 
 ### Android
-####v2.21
+####v2.21 (15 March 2017)
 FBS Fix:
 - Can now book normally
 - Fix Wording
