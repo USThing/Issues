@@ -22,7 +22,7 @@ Android
 
 ## Current Release
 ### iOS
-####v3.45
+#### v3.45
 New Features:
 - Career Center Released
 - Add Profile
@@ -35,7 +35,7 @@ Fixed:
 - FBS Close Time
 
 ### Android
-####v2.21 (15 March 2017)
+#### v2.21 (15 March 2017)
 FBS Fix:
 - Can now book normally
 - Fix Wording
@@ -46,7 +46,7 @@ Timetable Fix:
 
 ## Past Release
 ### Android
-####v2.2
+#### v2.2
 New Features:
 - Career Center
 - Turn off job post notification
