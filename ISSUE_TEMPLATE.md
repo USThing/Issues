@@ -4,4 +4,8 @@
 
 ### Steps to reproduce
 
-*Please also add the label iOS or / and Android for the issue
+### Environment
+- App Version:
+- Phone Model:
+- OS Version:
+- OS Language:
