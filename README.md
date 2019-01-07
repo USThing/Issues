@@ -4,7 +4,53 @@ This a public repo for tracing the USThing iOS, Android, Web and Backend private
 There are also some small submodules developed by different developers in USThing Team.
 
 ## Issues
-Please create a new issue in the "Issue" tab when you encounter any bugs. Start the issue title with [iOS] / [Android] / [Web] / [Backend].
+Please create a new issue in the "Issue" tab when you encounter any bugs. Start the issue title with [Function Name] Bug Name. Please add suitable labels to the issue.
+
+### Labels
+
+#### Platform
+iOS, android, server, web
+
+#### Type
+| Label Name      | Description                             | 
+| ---             | ---                                     | 
+| bug             | Problem                                 | 
+| enhancement     | Improvements                            | 
+| feature         | Request additional feature              |
+| maintenance     | Necessary fix/ migration/ refactor      |
+| documentation   | Documentation/ README/ instructions     |
+| alignment       | Alignment to other platform             |
+  
+#### Dicussion/ Help
+| Label Name      | Description                             | 
+| ---             | ---                                     | 
+| question        | Request extra information               | 
+| good first issue| Issue suitable for beginners            | 
+| help wanted     | Request extra help from others          |
+
+#### Priority
+| Label Name      | Description                             | 
+| ---             | ---                                     | 
+| urgent          | High priority                           | 
+
+#### Pending 
+| Label Name      | Description                             | 
+| ---             | ---                                     | 
+| in progress     | Working in progress                     | 
+| review needed   | Requires QA to review                   | 
+
+#### Inactive
+| Label Name      | Description                                    | 
+| ---             | ---                                            | 
+| icebox          | Will not be solved in upcoming working cycle   | 
+| invalid         | Invalid issue                                  | 
+| duplicate       | Duplicated issue                               |
+| wontfix         | out of scope                                   |
+
+#### Other
+| Label Name      | Description                             | 
+| ---             | ---                                     | 
+| ui/ux           | UI/UX related                           |
 
 ## Current Build Status
 iOS
